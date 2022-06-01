@@ -1,0 +1,2 @@
+name=Acenix
+image=Acenix.bmp

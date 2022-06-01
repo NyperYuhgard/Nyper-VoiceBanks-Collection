@@ -1,0 +1,2 @@
+name=Boifend
+image=Boifend.bmp
